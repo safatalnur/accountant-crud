@@ -22,6 +22,9 @@
         @yield('content')
     </main>
 
+    {{-- Footer --}}
+    @include('partials.footer')
+
     <!-- Font-Awesome -->
     <script src="https://kit.fontawesome.com/11d88d03e3.js" crossorigin="anonymous"></script>
     <!-- Bootstrap JavaScript -->
