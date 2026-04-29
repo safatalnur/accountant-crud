@@ -1,13 +1,13 @@
 @extends('layout.layout')
 
 @section('content')
-<section id="about-hero" class="hero-img container-fluid d-flex justify-content-center">
+<section id="contact-hero" class="hero-img container-fluid d-flex justify-content-center">
     <div class="container-md d-flex justify-content-center">
         <div class="row">
             <div class="col-sm p-5 text-white text-center d-flex flex-column justify-content-center">
-                <h1 class="display-5">About Us</h1>
+                <h1 class="display-5">Contact Us</h1>
                 <p>
-                    Our tax professionals help clients meet regulatory obligations, reduce tax burdens, and navigate complex regulations around the world.
+                    Form Goes here
                 </p>
                 <button type="button" class="btn btn-success">Register Now</button>
             </div>

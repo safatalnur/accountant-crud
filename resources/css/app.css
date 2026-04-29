@@ -19,10 +19,18 @@ h1, h2, h3, h4 {
 }
 
 /* Homepage */
-#home-hero {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/public/images/home-hero-img.jpg');
+.hero-img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 60vh;
+}
+#home-hero {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/public/images/home-hero-img.jpg');
+}
+#about-hero {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/public/images/client.jpg');
+}
+#contact-hero {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/public/images/whysmart.jpg');
 }

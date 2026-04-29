@@ -12,14 +12,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/about-us">About Us</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Partners</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Services</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="/contact-us">Contact Us</a>
                 </li>
             </ul>
         </div>

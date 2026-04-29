@@ -1,7 +1,7 @@
 @extends('layout.layout')
 
 @section('content')
-<section id="home-hero" class="container-fluid d-flex justify-content-center">
+<section id="home-hero" class="hero-img container-fluid d-flex justify-content-center">
     <div class="container-md d-flex justify-content-center">
         <div class="row">
             <div class="col-sm p-5 text-white text-center d-flex flex-column justify-content-center">
