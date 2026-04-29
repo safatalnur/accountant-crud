@@ -42,4 +42,17 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm text-white">
+                <p>&copy; {{ now()->year }} Copyright: powered by Safat Alnur</p>
+            </div>
+            <div class="col-sm text-white text-right">
+                <i class="fa-brands fa-square-facebook"></i>
+                <i class="fa-brands fa-square-twitter"></i>
+                <i class="fa-brands fa-square-google-plus"></i>
+                <i class="fa-brands fa-linkedin"></i>
+            </div>
+        </div>
+    </div>
 </footer>
